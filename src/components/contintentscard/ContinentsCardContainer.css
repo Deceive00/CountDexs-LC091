@@ -1,0 +1,25 @@
+.continent-card h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 2rem;
+}
+.continent-card h2{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1rem;
+
+}
+.continent-card:hover{
+  background-color: #968171;
+}
+.continent-card{
+  padding: 1rem;
+  height: 9rem;
+  width: 9rem;
+  border-radius: 20px;
+  background-color: #A9907E;
+  color: #F3DEBA;
+  text-decoration: none;
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}

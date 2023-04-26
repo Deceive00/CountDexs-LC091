@@ -1,0 +1,16 @@
+#country-list-for-continent{
+  margin: 11vh 2vh;
+}
+.continent-name-container{
+  display:flex;
+  justify-content:center;
+  font-family:"lobster";
+  color:#675D50;
+  font-size:29px;
+}
+
+.countries-container{
+  display:flex;
+  flex-direction:column;
+  margin-top: 2vh;
+}
